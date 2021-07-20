@@ -1,3 +1,3 @@
 # autotest_course
-hometasks
-information about hometask
+information about hometask:
+all homeworks from previous lessons
